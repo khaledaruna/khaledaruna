@@ -1,4 +1,4 @@
-![Frontend Web Developer | Web Design | Ecommerce & Shopify Expert](https://media-exp1.licdn.com/dms/image/C4E16AQFJo6J-6mtXcQ/profile-displaybackgroundimage-shrink_350_1400/0/1655997089686?e=1671667200&v=beta&t=HyCmo_i1PVXdsnkCDjmCqfZig1amXMm-1AUu-oAtoVc)
+![Frontend Web Developer | UI UX Designer | CMS Expert _Wordpress ,Shopify & Webflow ](https://media-exp1.licdn.com/dms/image/C4E16AQFJo6J-6mtXcQ/profile-displaybackgroundimage-shrink_350_1400/0/1655997089686?e=1671667200&v=beta&t=HyCmo_i1PVXdsnkCDjmCqfZig1amXMm-1AUu-oAtoVc)
 
 
 ### Hi There 👋, I am khaleda Runa

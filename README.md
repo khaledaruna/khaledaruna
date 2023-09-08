@@ -1,8 +1,8 @@
-![Frontend Web Developer | UI UX Designer | CMS Expert _Wordpress ,Shopify & Webflow ](https://media-exp1.licdn.com/dms/image/C4E16AQFJo6J-6mtXcQ/profile-displaybackgroundimage-shrink_350_1400/0/1655997089686?e=1671667200&v=beta&t=HyCmo_i1PVXdsnkCDjmCqfZig1amXMm-1AUu-oAtoVc)
+![Frontend Web Developer | UI UX Designer | CMS Expert _ Wordpress ,Shopify & Webflow ](https://media-exp1.licdn.com/dms/image/C4E16AQFJo6J-6mtXcQ/profile-displaybackgroundimage-shrink_350_1400/0/1655997089686?e=1671667200&v=beta&t=HyCmo_i1PVXdsnkCDjmCqfZig1amXMm-1AUu-oAtoVc)
 
 
 ### Hi There 👋, I am khaleda Runa
-#### Frontend Web Developer | Web Design | Ecommerce & Shopify Expert
+#### Frontend Web Developer | UI UX Designer | CMS Expert _ Wordpress ,Shopify & Webflow 
 
 
 I am Khaleda Runa. Frontend Web developer WordPress & WooCommerce,Shopify Developer, Email Marketing Expert , Dropship & E-Commerce Expert .I have a passion for learning and sharing my knowledge with others as publicly as possible.I love to solve real-world problem.I am strategic, goal-oriented and always work with wn wnd goal in mind

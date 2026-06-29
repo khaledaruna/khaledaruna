@@ -12,7 +12,7 @@ I am Khaleda Runa. Frontend Web developer WordPress & WooCommerce,Shopify Develo
 Skills: html, css, boostrap, JavaScript,wordpress, Ecommerce, Shopify
 
 - 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning Php 
+- 🌱 I have recently learned  Cyber security & ethical hacking
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web DEvelopment 
 

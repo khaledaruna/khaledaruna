@@ -1,6 +1,4 @@
-![Frontend Web Developer | UI UX Designer | CMS Expert _ Wordpress ,Shopify & Webflow ](<img width="2056" height="765" alt="khaledaRuna (2)" src="https://github.com/user-attachments/assets/cfbfaf98-3ad7-4ff5-97c2-baf8b3aca39b" />
-)
-
+![Frontend Web Developer | UI UX Designer | CMS Expert _ Wordpress ,Shopify & Webflow ]
 
 ### Hi There 👋, I am khaleda Runa
 #### Frontend Web Developer | UI UX Designer | CMS Expert _ Wordpress ,Shopify & Webflow 
@@ -22,27 +20,7 @@ Skills: html, css, boostrap, JavaScript,wordpress, Ecommerce, Shopify
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-##  GitHub Statistics
 
-<div align="center">
-
-###  GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=khaledaruna&theme=flat&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledaruna&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-###  GitHub Stats
-
-![Khaleda Runa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledaruna&show_icons=true&count_private=true)
-
-###  GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=khaledaruna)
-
-###  GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khaledaruna)
 
 
 ![Profile views](https://github.com/khaledaruna)  

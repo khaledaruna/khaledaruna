@@ -1,4 +1,4 @@
-![Frontend Web Developer | UI UX Designer | CMS Expert _ Wordpress ,Shopify & Webflow ]
+# Frontend Web Developer | UI UX Designer | CMS Expert _ Wordpress ,Shopify & Webflow 
 
 ### Hi There 👋, I am khaleda Runa
 #### Frontend Web Developer | UI UX Designer | CMS Expert _ Wordpress ,Shopify & Webflow 
@@ -23,4 +23,4 @@ Skills: html, css, boostrap, JavaScript,wordpress, Ecommerce, Shopify
 
 
 
-![Profile views](https://github.com/khaledaruna)  
+

@@ -1,4 +1,5 @@
-# Frontend Web Developer | UI UX Designer | CMS Expert _ Wordpress ,Shopify & Webflow <img width="2056" height="765" alt="khaledaRuna (2)" src="https://github.com/user-attachments/assets/f379d6d4-7dd6-4a68-9926-623f9d0f2891" />
+# Frontend Web Developer | UI UX Designer | CMS Expert _ Wordpress ,Shopify & Webflow <img width="2056" height="765" alt="khaledaRuna (2)" src="https://github.com/user-attachments/assets/df5fb50b-c5b1-4ade-a644-adfc11385a5e" />
+
 
 
 ### Hi There 👋, I am khaleda Runa

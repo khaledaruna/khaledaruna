@@ -1,55 +1,283 @@
 # Frontend Web Developer 
 
-<img width="2056" height="765" alt="khaledaRuna (2)" src="https://github.com/user-attachments/assets/df5fb50b-c5b1-4ade-a644-adfc11385a5e" />
 
 
+<img width="2056" height="765" alt="Khaleda Runa - Frontend Web Developer" src="https://github.com/user-attachments/assets/df5fb50b-c5b1-4ade-a644-adfc11385a5e" />
 
-### Hi There 👋, I am khaleda Runa
-#### Frontend Web Developer | UI/UX Specialist | CMS & E-Commerce Consultant
+# 👋 Hi, I'm Khaleda Runa
 
+<h3 align="center">
+  Frontend Web Developer | UI/UX Specialist | CMS & E-Commerce Consultant
+</h3>
 
-I am a strategic, results-driven Frontend Web Developer and CMS Specialist with over 3 years of international freelance experience. I specialize in transforming complex business goals into clean, user-centric digital experiences, responsive web application interfaces, and high-converting e-commerce solutions.
+<p align="center">
+  Building modern, responsive, and user-focused web experiences with clean code and thoughtful design.
+</p>
 
-Driven by a passion for continuous learning and problem-solving, I advocate for clean code architecture, accessible design standards, and performance optimization across every web platform I build.I have a passion for learning and sharing my knowledge with others as publicly as possible.
+---
 
-### Highlights & Experience
+## 🚀 About Me
 
- Global Impact: Delivered 46+ client projects across 20 countries for 35+ clients on global freelancing platforms.
+I’m a **Frontend Web Developer and UI/UX Specialist** with 2+ years of international freelance experience, focused on creating modern, responsive, and user-friendly digital experiences.
 
- E-Commerce Solutions: Expert in custom WooCommerce and Shopify storefront development, payment integrations, and product architecture.
+My background combines **web development, UI/UX design, CMS platforms, and e-commerce**, which allows me to understand both the technical and business sides of a project.
 
- Modern Frontend & UI: Experienced in creating responsive design systems using modern HTML5, CSS3, Bootstrap, and JavaScript animations.
+I enjoy turning ideas and designs into functional web experiences while continuously improving my skills in modern frontend development.
 
- CMS Customization: Specialized in custom page building and design translation across WordPress, Webflow, and Shopify.
+Currently, I’m focusing heavily on **React, Next.js, TypeScript, Tailwind CSS, and modern JavaScript** as I transition toward professional web engineering.
 
-### Learning Journey & Current Tech Focus
+### What I Care About
 
- Cyber Security & Ethical Hacking: Recently expanded my technical foundation with cyber security principles to build more resilient and secure web applications.
+   Clean and maintainable code
+   Responsive and accessible interfaces
+   Performance-focused development
+   Modern UI/UX implementation
+   Problem solving and continuous learning
+   Reusable components and scalable project structure
+   Collaboration and open-source contribution
 
- Modern JavaScript & Frameworks: Currently deepening my core knowledge in modern JS ecosystems (React/Next.js) and component-driven web design.
+---
 
- Client Services: Active top-rated service provider on Fiverr, helping agencies and businesses scale their web presence.
+##  Experience & Highlights
 
- Open Source & Collaboration: Eager to collaborate on open-source frontend projects, UI design systems, and web performance toolkits.
+###  International Freelancing
 
-### Tech Stack & Skillset
+- Delivered **75+ web projects**
+- Worked with **35+ clients**
+- Projects delivered for clients across **20+ countries**
+- Experience working with businesses, agencies, startups, and e-commerce brands
 
-Frontend Development  : HTML5 | CSS3 | JavaScript (ES6+) | Bootstrap 5 | jQuery
-CMS & E-Commerce      : WordPress | WooCommerce | Shopify | Webflow
-Design & UI/UX        : Figma | Responsive Web Design | Web Accessibility (a11y)
-Libraries & Tools     : Git | GitHub | VS Code | Animate.css | Owl Carousel
-Security & Systems    : Cyber Security Fundamentals | Ethical Hacking Basics
- 
-- 🔭 I’m currently working on Upwork 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web DEvelopment 
+###  E-Commerce Development
 
+Experienced with:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khaledaruna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/khaledaruna/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/khaledaruna06/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/khaledaRuna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](khaledaruna.xyz)  
+- WordPress
+- WooCommerce
+- Shopify
+- Product-focused landing pages
+- E-commerce UI/UX
+- Responsive storefronts
+- Payment and third-party integrations
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+###  UI/UX & Frontend
 
+Experience transforming designs from **Figma and other design tools** into responsive web interfaces using modern frontend technologies.
 
+###  CMS & Website Development
 
+Specialized in:
 
+- WordPress
+- Webflow
+- Shopify
+- WooCommerce
+- Custom landing pages
+- Business websites
+- E-commerce websites
 
+---
+
+## = Current Learning Journey
+
+I’m currently expanding my frontend development skills and moving deeper into modern web engineering.
+
+### Currently Learning
+
+- ⚛️ React
+- ▲ Next.js
+- 📘 TypeScript
+- 🟨 Modern JavaScript
+- 🎨 Tailwind CSS
+- 🌈 DaisyUI
+- 🧩 Component-based architecture
+- 🔄 API & asynchronous data handling
+- 🧠 Object-Oriented Programming
+- 🗂️ Git & GitHub workflows
+
+My goal is to progress from **web design and CMS development toward modern AI-driven web engineering**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+</p>
+
+**HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js**
+
+### Styling & UI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+</p>
+
+**Tailwind CSS · DaisyUI · Bootstrap · Responsive Design · UI/UX**
+
+### CMS & E-Commerce
+
+**WordPress · WooCommerce · Shopify · Webflow**
+
+### Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,vercel" />
+</p>
+
+**Git · GitHub · VS Code · Vite · npm · Vercel**
+
+### Design
+
+**Figma · UI/UX Design · Responsive Web Design · Design Systems**
+
+### Additional Knowledge
+
+**Cybersecurity Fundamentals · Ethical Hacking Basics · Web Security Awareness**
+
+---
+
+##  Featured Projects
+
+###  Dev Stack
+
+A responsive technology stack management application built with modern React technologies.
+
+**Tech Used:**
+
+`React` `TypeScript` `Tailwind CSS` `DaisyUI` `React Toastify` `Vite`
+
+**Features:**
+
+- Responsive technology cards
+- Add technologies to personal stack
+- Remove individual technologies
+- Remove all technologies
+- Duplicate prevention
+- Toast notifications
+- JSON data loading
+- Loading state
+- Responsive layout
+- Reusable React components
+
+🔗 **Live Demo:**  
+https://dev-stack-five-wheat.vercel.app
+
+🔗 **GitHub Repository:**  
+https://github.com/khaledaruna/Dev_Stack
+
+---
+
+## 🎯 What I'm Working On
+
+- 🔭 Building projects with **React + TypeScript**
+- 🌱 Learning **Next.js** and modern React architecture
+- 📚 Strengthening JavaScript and TypeScript fundamentals
+- 🎨 Building responsive interfaces with **Tailwind CSS**
+- 🧩 Practicing reusable component architecture
+- ⚡ Learning performance-focused frontend development
+- 🔧 Improving Git and GitHub workflows
+- 🚀 Deploying projects with **Vercel**
+- 🤝 Looking to collaborate on interesting frontend and open-source projects
+
+---
+
+## 💻 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=khaledaruna&show_icons=true&count_private=true" alt="Khaleda Runa's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledaruna&layout=compact" alt="Top Languages" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=khaledaruna" alt="GitHub Streak" />
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=khaledaruna&theme=flat&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khaledaruna" alt="GitHub Activity Graph" />
+
+</p>
+
+---
+
+##  Let's Connect
+
+<p align="left">
+
+<a href="https://github.com/khaledaruna">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/khaledaruna/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/khaledaruna06/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://twitter.com/khaledaRuna">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://khaledaruna.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="Portfolio" height="40">
+</a>
+
+</p>
+
+---
+
+##  Contact
+
+If you're interested in:
+
+- Frontend Development
+- React / Next.js Development
+- UI/UX Implementation
+- WordPress / WooCommerce
+- Shopify Development
+- Webflow Development
+- E-Commerce Solutions
+- Website Design & Development
+
+Feel free to connect with me.
+
+---
+
+<p align="center">
+  <strong>💡 Learning. Building. Improving.</strong>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>

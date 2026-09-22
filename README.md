@@ -187,18 +187,6 @@ https://github.com/khaledaruna/Dev_Stack
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=khaledaruna" alt="GitHub Streak" />
-
-</p>
-
----
-
-
-
-## 🔥 GitHub Streak
-
-<p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=khaledaruna&hide_border=true"
     alt="GitHub Streak"

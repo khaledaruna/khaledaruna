@@ -5,17 +5,42 @@
 
 
 ### Hi There 👋, I am khaleda Runa
-#### Frontend Web Developer | UI UX Designer | CMS Expert _ Wordpress ,Shopify & Webflow 
+#### Frontend Web Developer | UI/UX Specialist | CMS & E-Commerce Consultant
 
 
-I am Khaleda Runa. Frontend Web developer WordPress & WooCommerce,Shopify Developer, Email Marketing Expert , Dropship & E-Commerce Expert .I have a passion for learning and sharing my knowledge with others as publicly as possible.I love to solve real-world problem.I am strategic, goal-oriented and always work with wn wnd goal in mind
+I am a strategic, results-driven Frontend Web Developer and CMS Specialist with over 3 years of international freelance experience. I specialize in transforming complex business goals into clean, user-centric digital experiences, responsive web application interfaces, and high-converting e-commerce solutions.
 
- As freelancer Completed 46 Projects of 20 country's 35 client's at various marketplaces since 2018.I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Wordpress but some technologies I enjoy working with wpoocommerce and shopify.
+Driven by a passion for continuous learning and problem-solving, I advocate for clean code architecture, accessible design standards, and performance optimization across every web platform I build.I have a passion for learning and sharing my knowledge with others as publicly as possible.
 
-Skills: html, css, boostrap, JavaScript,wordpress, Ecommerce, Shopify
+### Highlights & Experience
 
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I have recently learned  Cyber security & ethical hacking
+ Global Impact: Delivered 46+ client projects across 20 countries for 35+ clients on global freelancing platforms.
+
+ E-Commerce Solutions: Expert in custom WooCommerce and Shopify storefront development, payment integrations, and product architecture.
+
+ Modern Frontend & UI: Experienced in creating responsive design systems using modern HTML5, CSS3, Bootstrap, and JavaScript animations.
+
+ CMS Customization: Specialized in custom page building and design translation across WordPress, Webflow, and Shopify.
+
+### Learning Journey & Current Tech Focus
+
+ Cyber Security & Ethical Hacking: Recently expanded my technical foundation with cyber security principles to build more resilient and secure web applications.
+
+ Modern JavaScript & Frameworks: Currently deepening my core knowledge in modern JS ecosystems (React/Next.js) and component-driven web design.
+
+ Client Services: Active top-rated service provider on Fiverr, helping agencies and businesses scale their web presence.
+
+ Open Source & Collaboration: Eager to collaborate on open-source frontend projects, UI design systems, and web performance toolkits.
+
+### Tech Stack & Skillset
+
+Frontend Development  : HTML5 | CSS3 | JavaScript (ES6+) | Bootstrap 5 | jQuery
+CMS & E-Commerce      : WordPress | WooCommerce | Shopify | Webflow
+Design & UI/UX        : Figma | Responsive Web Design | Web Accessibility (a11y)
+Libraries & Tools     : Git | GitHub | VS Code | Animate.css | Owl Carousel
+Security & Systems    : Cyber Security Fundamentals | Ethical Hacking Basics
+ 
+- 🔭 I’m currently working on Upwork 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web DEvelopment 
 

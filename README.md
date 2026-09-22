@@ -6,12 +6,12 @@
 
 # 👋 Hi, I'm Khaleda Runa
 
-<h3 align="center">
-  Frontend Web Developer | UI/UX Specialist | CMS & E-Commerce Consultant
+<h3 align="left">
+Frontend Web Developer | UI/UX Specialist | CMS & E-Commerce Consultant
 </h3>
 
-<p align="center">
-  Building modern, responsive, and user-focused web experiences with clean code and thoughtful design.
+<p align="left">
+Building modern, responsive, and user-focused web experiences with clean code and thoughtful design.
 </p>
 
 ---

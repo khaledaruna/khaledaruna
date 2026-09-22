@@ -183,21 +183,6 @@ https://github.com/khaledaruna/Dev_Stack
 
 ---
 
-## 💻 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=khaledaruna&show_icons=true&hide_border=true"
-    alt="Khaleda Runa's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledaruna&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
 
 ## 🔥 GitHub Streak
 
@@ -209,16 +194,7 @@ https://github.com/khaledaruna/Dev_Stack
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=khaledaruna&theme=flat&no-frame=true&no-bg=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 

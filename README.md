@@ -111,22 +111,32 @@ My goal is to progress from **web design and CMS development toward modern AI-dr
 ### Styling & UI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/daisyui/5A0EF8" height="40" alt="daisyUI" />
 </p>
-
-**Tailwind CSS · DaisyUI · Bootstrap · Responsive Design · UI/UX**
-
-### CMS & E-Commerce
-
-**WordPress · WooCommerce · Shopify · Webflow**
 
 ### Tools & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,npm,vercel" />
 </p>
 
-**Git · GitHub · VS Code · Vite · npm · Vercel**
+**Git · GitHub · VS Code · Figma · Vite · npm · Vercel**
+
+
+### CMS & E-Commerce
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,webflow" height="40" alt="WordPress & Webflow" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/woocommerce/96588A" height="40" alt="WooCommerce" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/shopify/7AB55C" height="40" alt="Shopify" />
+</p>
+
+**WordPress · WooCommerce · Shopify · Webflow**
+
 
 ### Design
 
@@ -219,9 +229,9 @@ https://github.com/khaledaruna/Dev_Stack
 </a>
 &nbsp;&nbsp;
 
-<a href="https://khaledaruna.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="Portfolio" height="40">
-</a>
+  <a href="mailto:khaledaruna06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0B1F36?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" />
+  </a>
 
 </p>
 

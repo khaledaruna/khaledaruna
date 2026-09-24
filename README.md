@@ -77,7 +77,7 @@ Specialized in:
 
 ---
 
-## = Current Learning Journey
+##  Current Learning Journey
 
 I’m currently expanding my frontend development skills and moving deeper into modern web engineering.
 
@@ -254,10 +254,10 @@ Feel free to connect with me.
 
 ---
 
-<p align="center">
+<p>
   <strong>💡 Learning. Building. Improving.</strong>
 </p>
 
-<p align="center">
+<p>
   Thanks for visiting my profile! ⭐
 </p>

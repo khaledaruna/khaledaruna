@@ -14,7 +14,7 @@ Frontend Web Developer | UI/UX Specialist | CMS & E-Commerce Consultant
 Building modern, responsive, and user-focused web experiences with clean code and thoughtful design.
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -36,7 +36,7 @@ Currently, I’m focusing heavily on **React, Next.js, TypeScript, Tailwind CSS,
    Reusable components and scalable project structure
    Collaboration and open-source contribution
 
----
+
 
 ##  Experience & Highlights
 
@@ -75,7 +75,7 @@ Specialized in:
 - Business websites
 - E-commerce websites
 
----
+
 
 ##  Current Learning Journey
 
@@ -96,7 +96,7 @@ I’m currently expanding my frontend development skills and moving deeper into 
 
 My goal is to progress from **web design and CMS development toward modern AI-driven web engineering**.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -136,15 +136,6 @@ My goal is to progress from **web design and CMS development toward modern AI-dr
 </p>
 
 **WordPress · WooCommerce · Shopify · Webflow**
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress,webflow" height="40" alt="WordPress & Webflow" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/woocommerce/96588A" height="40" alt="WooCommerce" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/shopify/7AB55C" height="40" alt="Shopify" />
-</p>
-
-**WordPress · WooCommerce · Shopify · Webflow**
 
 ### Design
 
@@ -154,7 +145,7 @@ My goal is to progress from **web design and CMS development toward modern AI-dr
 
 **Cybersecurity Fundamentals · Ethical Hacking Basics · Web Security Awareness**
 
----
+
 
 ##  Featured Projects
 
@@ -185,7 +176,7 @@ https://dev-stack-five-wheat.vercel.app
 🔗 **GitHub Repository:**  
 https://github.com/khaledaruna/Dev_Stack
 
----
+
 
 ## 🎯 What I'm Working On
 
@@ -211,7 +202,7 @@ https://github.com/khaledaruna/Dev_Stack
   />
 </p>
 
----
+
 
 ##  Let's Connect
 
@@ -243,7 +234,7 @@ https://github.com/khaledaruna/Dev_Stack
 
 </p>
 
----
+
 
 ##  Contact
 
@@ -260,7 +251,7 @@ If you're interested in:
 
 Feel free to connect with me.
 
----
+
 
 <p>
   <strong>💡 Learning. Building. Improving.</strong>

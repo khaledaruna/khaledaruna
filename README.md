@@ -136,7 +136,15 @@ My goal is to progress from **web design and CMS development toward modern AI-dr
 </p>
 
 **WordPress · WooCommerce · Shopify · Webflow**
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,webflow" height="40" alt="WordPress & Webflow" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/woocommerce/96588A" height="40" alt="WooCommerce" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/shopify/7AB55C" height="40" alt="Shopify" />
+</p>
 
+**WordPress · WooCommerce · Shopify · Webflow**
 
 ### Design
 

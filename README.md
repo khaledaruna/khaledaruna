@@ -75,11 +75,11 @@ Specialized in:
 - Business websites
 - E-commerce websites
 
+## ⚡ Current Activities & What I'm Working On
 
+* 🔭 Building and refining [**FitLog**](https://fitlog-seven-beta.vercel.app/?utm_source=gemini) — a Next.js App Router workout planning and exploration web platform.
 
-##  Current Learning Journey
-
-I’m currently expanding my frontend development skills and moving deeper into modern web engineering.
+* ⚡ Maintaining [**Dev Stack**](https://dev-stack-five-wheat.vercel.app/?utm_source=gemini) — an interactive tech stack tracker built with React, TypeScript, and Tailwind CSS.
 
 ### Currently Learning
 
@@ -96,6 +96,48 @@ I’m currently expanding my frontend development skills and moving deeper into 
 
 My goal is to progress from **web design and CMS development toward modern AI-driven web engineering**.
 
+
+## ⭐ Featured Projects
+
+### 🏋️‍♂️ 1. FitLog — Workout Library & Day Planner
+
+> A full-stack web application for discovering exercises, creating custom daily workout plans, and tracking exercise routines.
+
+* **Live Demo:** [https://fitlog-seven-beta.vercel.app/](https://fitlog-seven-beta.vercel.app/?utm_source=gemini)
+
+* **GitHub Repository:** [khaledaruna/Fitlog](https://github.com/khaledaruna/Fitlog?utm_source=gemini)
+
+* **Tech Stack:** `Next.js 14/16`, `React`, `TypeScript`, `Tailwind CSS`, `daisyUI`, `react-hot-toast`, `Context API`
+
+* **Key Features:**
+
+  * Interactive workout exercise search and filtering.
+
+  * Day planner to save custom routines to "My Plan".
+
+  * Toast feedback notifications on plan additions.
+
+  * Fully responsive mobile-first dark UI layout.
+
+### 🚀 2. Dev Stack — Tech Stack Management App
+
+> A clean interactive dashboard allowing developers to organize, filter, and manage personal technology stacks in real time.
+
+* **Live Demo:** [https://dev-stack-five-wheat.vercel.app/](https://dev-stack-five-wheat.vercel.app/?utm_source=gemini)
+
+* **GitHub Repository:** [khaledaruna/Dev_Stack](https://github.com/khaledaruna/Dev_Stack?utm_source=gemini)
+
+* **Tech Stack:** `React`, `TypeScript`, `Tailwind CSS`, `daisyUI`, `React Toastify`, `Vite`
+
+* **Key Features:**
+
+  * Dynamic technology cards loaded from JSON data.
+
+  * Add and remove skills from personal stack with duplicate prevention.
+
+  * Instant toast feedback notifications.
+
+  * Smooth responsive layout across desktop and mobile screens.
 
 
 ## 🛠️ Tech Stack
@@ -145,57 +187,9 @@ My goal is to progress from **web design and CMS development toward modern AI-dr
 
 **Cybersecurity Fundamentals · Ethical Hacking Basics · Web Security Awareness**
 
-
-
-##  Featured Projects
-
-###  Dev Stack
-
-A responsive technology stack management application built with modern React technologies.
-
-**Tech Used:**
-
-`React` `TypeScript` `Tailwind CSS` `DaisyUI` `React Toastify` `Vite`
-
-**Features:**
-
-- Responsive technology cards
-- Add technologies to personal stack
-- Remove individual technologies
-- Remove all technologies
-- Duplicate prevention
-- Toast notifications
-- JSON data loading
-- Loading state
-- Responsive layout
-- Reusable React components
-
-🔗 **Live Demo:**  
-https://dev-stack-five-wheat.vercel.app
-
-🔗 **GitHub Repository:**  
-https://github.com/khaledaruna/Dev_Stack
-
-
-
-## 🎯 What I'm Working On
-
-- 🔭 Building projects with **React + TypeScript**
-- 🌱 Learning **Next.js** and modern React architecture
-- 📚 Strengthening JavaScript and TypeScript fundamentals
-- 🎨 Building responsive interfaces with **Tailwind CSS**
-- 🧩 Practicing reusable component architecture
-- ⚡ Learning performance-focused frontend development
-- 🔧 Improving Git and GitHub workflows
-- 🚀 Deploying projects with **Vercel**
-- 🤝 Looking to collaborate on interesting frontend and open-source projects
-
----
-
-
 ## 🔥 GitHub Streak
 
-<p align="center">
+<p>
   <img
     src="https://streak-stats.demolab.com/?user=khaledaruna&hide_border=true"
     alt="GitHub Streak"

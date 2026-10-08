@@ -7,18 +7,30 @@
 
 <br>
 
+
 <!-- ==================== TYPING ==================== -->
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=850&lines=Frontend+Web+Developer;React+%7C+Next.js+%7C+TypeScript;UI%2FUX+%26+Responsive+Web+Design;WordPress+%7C+Webflow+%7C+Shopify;CMS+%26+E-Commerce+Specialist;Learning+Full-Stack+Web+Development;Growing+Toward+AI-Driven+Web+Engineering" alt="Typing SVG">
 </a>
+
+
+<div align="center">
+
+![Location](https://img.shields.io/badge/BASED_IN-BANGLADESH-006A4E?style=for-the-badge)
+
+![Focus](https://img.shields.io/badge/CURRENT_FOCUS-FRONTEND%20%26%20FULL--STACK-0891B2?style=for-the-badge)
+
+![Direction](https://img.shields.io/badge/DIRECTION-AI--DRIVEN%20WEB%20ENGINEERING-7C3AED?style=for-the-badge)
+
+</div
 <!-- ============================================================ -->
 <!-- ======================== PROFILE ============================ -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
 
 <h2>PROFILE</h2>
 
@@ -34,19 +46,11 @@ Currently building deeper expertise in React, Next.js, TypeScript, APIs, MongoDB
 and full-stack development while moving toward AI-driven web engineering.
 </p>
 
-<div align="center">
-
-![Location](https://img.shields.io/badge/BASED_IN-BANGLADESH-006A4E?style=for-the-badge)
-
-![Focus](https://img.shields.io/badge/CURRENT_FOCUS-FRONTEND%20%26%20FULL--STACK-0891B2?style=for-the-badge)
-
-![Direction](https://img.shields.io/badge/DIRECTION-AI--DRIVEN%20WEB%20ENGINEERING-7C3AED?style=for-the-badge)
-
-</div>
+>
 
 <br>
 
----
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
 
 <br><br>
 
@@ -154,7 +158,7 @@ and full-stack development while moving toward AI-driven web engineering.
 </section>
 </div>
 <br><br>
-
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
 <div align= "center">
 
 ## 📌 Featured Projects
@@ -168,7 +172,7 @@ A modern workout planning application built with Next.js and TypeScript.
 🔗 [Live Demo](https://fitlog-seven-beta.vercel.app/)  
 📂 [GitHub Repository](https://github.com/khaledaruna/Fitlog)
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
 
 ### 🧩 Dev Stack — Technology Management App
 
@@ -179,7 +183,7 @@ An interactive React application for managing and organizing technology skills.
 🔗 [Live Demo](https://dev-stack-five-wheat.vercel.app/)  
 📂 [GitHub Repository](https://github.com/khaledaruna/Dev_Stack)
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
 
 ### 🎬 Movie Explorer
 
@@ -190,6 +194,7 @@ A responsive movie and TV show discovery application using the TVMaze API.
 🔗 [Live Demo](https://movie-explorer-lemon-eight.vercel.app/)  
 📂 [GitHub Repository](https://github.com/khaledaruna/Movie_Explorer)
 
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
 
 ## 🔥 GitHub Streak
 
@@ -200,7 +205,7 @@ A responsive movie and TV show discovery application using the TVMaze API.
   />
 </p>
 
-
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
 
 <h2>CONTACT</h2>
 
@@ -212,10 +217,8 @@ A responsive movie and TV show discovery application using the TVMaze API.
 [![Email](https://img.shields.io/badge/EMAIL-START%20A%20CONVERSATION-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledaruna06@gmail.com)
 
 <br><br>
-
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
 Feel free to connect with me.
-
-
 
 <p>
   <strong>💡 Learning. Building. Improving.</strong>

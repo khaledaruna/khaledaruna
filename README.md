@@ -1,189 +1,195 @@
-# Frontend Web Developer 
+<div align="center">
+
+<!-- ==================== HERO ==================== -->
 
 
+<img width="2048" height="768" alt="Khaleda Runa" src="https://github.com/user-attachments/assets/59ab6ff8-07cc-415a-b408-890ffab7bd3e" />
 
-<img width="2056" height="765" alt="Khaleda Runa - Frontend Web Developer" src="https://github.com/user-attachments/assets/df5fb50b-c5b1-4ade-a644-adfc11385a5e" />
+<br>
 
-# 👋 Hi, I'm Khaleda Runa
+<!-- ==================== TYPING ==================== -->
 
-<h3 align="left">
-Frontend Web Developer | UI/UX Specialist | CMS & E-Commerce Consultant
-</h3>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=850&lines=Frontend+Web+Developer;React+%7C+Next.js+%7C+TypeScript;UI%2FUX+%26+Responsive+Web+Design;WordPress+%7C+Webflow+%7C+Shopify;CMS+%26+E-Commerce+Specialist;Learning+Full-Stack+Web+Development;Growing+Toward+AI-Driven+Web+Engineering" alt="Typing SVG">
+</a>
+<!-- ============================================================ -->
+<!-- ======================== PROFILE ============================ -->
+<!-- ============================================================ -->
 
-<p align="left">
-Building modern, responsive, and user-focused web experiences with clean code and thoughtful design.
+<div align="center">
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
+
+<h2>PROFILE</h2>
+
+</div>
+
+<p align="center">
+Frontend Web Developer and UI/UX Specialist with a strong professional background in
+WordPress, Webflow, Shopify, WooCommerce, and modern web design.
 </p>
 
-
-
-## 🚀 About Me
-
-I’m a **Frontend Web Developer and UI/UX Specialist** with 2+ years of international freelance experience, focused on creating modern, responsive, and user-friendly digital experiences.
-
-My background combines **web development, UI/UX design, CMS platforms, and e-commerce**, which allows me to understand both the technical and business sides of a project.
-
-I enjoy turning ideas and designs into functional web experiences while continuously improving my skills in modern frontend development.
-
-Currently, I’m focusing heavily on **React, Next.js, TypeScript, Tailwind CSS, and modern JavaScript** as I transition toward professional web engineering.
-
-### What I Care About
-
-   Clean and maintainable code
-   Responsive and accessible interfaces
-   Performance-focused development
-   Modern UI/UX implementation
-   Problem solving and continuous learning
-   Reusable components and scalable project structure
-   Collaboration and open-source contribution
-
-
-
-##  Experience & Highlights
-
-###  International Freelancing
-
-- Delivered **75+ web projects**
-- Worked with **35+ clients**
-- Projects delivered for clients across **20+ countries**
-- Experience working with businesses, agencies, startups, and e-commerce brands
-
-###  E-Commerce Development
-
-Experienced with:
-
-- WordPress
-- WooCommerce
-- Shopify
-- Product-focused landing pages
-- E-commerce UI/UX
-- Responsive storefronts
-- Payment and third-party integrations
-
-###  UI/UX & Frontend
-
-Experience transforming designs from **Figma and other design tools** into responsive web interfaces using modern frontend technologies.
-
-###  CMS & Website Development
-
-Specialized in:
-
-- WordPress
-- Webflow
-- Shopify
-- WooCommerce
-- Custom landing pages
-- Business websites
-- E-commerce websites
-
-## ⚡ Current Activities & What I'm Working On
-
-* 🔭 Building and refining [**FitLog**](https://fitlog-seven-beta.vercel.app/?utm_source=gemini) — a Next.js App Router workout planning and exploration web platform.
-
-* ⚡ Maintaining [**Dev Stack**](https://dev-stack-five-wheat.vercel.app/?utm_source=gemini) — an interactive tech stack tracker built with React, TypeScript, and Tailwind CSS.
-
-### Currently Learning
-
-- ⚛️ React
-- ▲ Next.js
-- 📘 TypeScript
-- 🟨 Modern JavaScript
-- 🎨 Tailwind CSS
-- 🌈 DaisyUI
-- 🧩 Component-based architecture
-- 🔄 API & asynchronous data handling
-- 🧠 Object-Oriented Programming
-- 🗂️ Git & GitHub workflows
-
-My goal is to progress from **web design and CMS development toward modern AI-driven web engineering**.
-
-
-## ⭐ Featured Projects
-
-### 🏋️‍♂️ 1. FitLog — Workout Library & Day Planner
-
-> A full-stack web application for discovering exercises, creating custom daily workout plans, and tracking exercise routines.
-
-* **Live Demo:** [https://fitlog-seven-beta.vercel.app/](https://fitlog-seven-beta.vercel.app/?utm_source=gemini)
-
-* **GitHub Repository:** [khaledaruna/Fitlog](https://github.com/khaledaruna/Fitlog?utm_source=gemini)
-
-* **Tech Stack:** `Next.js 14/16`, `React`, `TypeScript`, `Tailwind CSS`, `daisyUI`, `react-hot-toast`, `Context API`
-
-* **Key Features:**
-
-  * Interactive workout exercise search and filtering.
-
-  * Day planner to save custom routines to "My Plan".
-
-  * Toast feedback notifications on plan additions.
-
-  * Fully responsive mobile-first dark UI layout.
-
-### 🚀 2. Dev Stack — Tech Stack Management App
-
-> A clean interactive dashboard allowing developers to organize, filter, and manage personal technology stacks in real time.
-
-* **Live Demo:** [https://dev-stack-five-wheat.vercel.app/](https://dev-stack-five-wheat.vercel.app/?utm_source=gemini)
-
-* **GitHub Repository:** [khaledaruna/Dev_Stack](https://github.com/khaledaruna/Dev_Stack?utm_source=gemini)
-
-* **Tech Stack:** `React`, `TypeScript`, `Tailwind CSS`, `daisyUI`, `React Toastify`, `Vite`
-
-* **Key Features:**
-
-  * Dynamic technology cards loaded from JSON data.
-
-  * Add and remove skills from personal stack with duplicate prevention.
-
-  * Instant toast feedback notifications.
-
-  * Smooth responsive layout across desktop and mobile screens.
-
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+<p align="center">
+Currently building deeper expertise in React, Next.js, TypeScript, APIs, MongoDB,
+and full-stack development while moving toward AI-driven web engineering.
 </p>
 
-**HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js**
+<div align="center">
 
-### Styling & UI
+![Location](https://img.shields.io/badge/BASED_IN-BANGLADESH-006A4E?style=for-the-badge)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/daisyui/5A0EF8" height="40" alt="daisyUI" />
-</p>
+![Focus](https://img.shields.io/badge/CURRENT_FOCUS-FRONTEND%20%26%20FULL--STACK-0891B2?style=for-the-badge)
 
-### Tools & Development
+![Direction](https://img.shields.io/badge/DIRECTION-AI--DRIVEN%20WEB%20ENGINEERING-7C3AED?style=for-the-badge)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,npm,vercel" />
-</p>
+</div>
 
-**Git · GitHub · VS Code · Figma · Vite · npm · Vercel**
+<br>
+
+---
+
+<br><br>
+
+<!-- ==================== SOCIAL LINKS ==================== -->
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-KHALEDARUNA.COM-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://khaledaruna.com)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-KHALEDA%20RUNA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledaruna/)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-KHALEDARUNA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledaruna)
+
+[![Behance](https://img.shields.io/badge/BEHANCE-KHALEDARUNA-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/khaledaruna)
+
+[![Email](https://img.shields.io/badge/EMAIL-START%20A%20CONVERSATION-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledaruna06@gmail.com)
+
+<br><br>
+
+<strong>OPEN TO FREELANCE PROJECTS, REMOTE OPPORTUNITIES, AND WEB DEVELOPMENT COLLABORATIONS</strong>
+
+<br>
+
+<img width="58%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=2" alt="Contact separator">
+
+<br><br>
+
+<!-- ==================== PROFILE STATS ==================== -->
+
+![Web Projects](https://img.shields.io/badge/75%2B-WEB%20PROJECTS-0891B2?style=for-the-badge)
+
+![Clients](https://img.shields.io/badge/35%2B-CLIENTS-16A34A?style=for-the-badge)
+
+![Countries](https://img.shields.io/badge/20%2B-COUNTRIES-7C3AED?style=for-the-badge)
+
+![Profile Views](https://komarev.com/ghpvc/?username=khaledaruna&label=PROFILE%20VIEWS&color=DC2626&style=for-the-badge)
+
+<br><br>
+
+</div>
 
 
-### CMS & E-Commerce
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress,webflow" height="40" alt="WordPress & Webflow" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/shopify/7AB55C" height="40" alt="Shopify" />
-</p>
+<h2>WHAT I DO</h2>
 
-**WordPress · Shopify · Webflow**
+</div>
+<div align="center">
+<section style="min-height: 100vh; display: flex; justify-content: center; align-items: center;">
+   <table>
+      <tr>
+<td align="center">
+<h3>UI/UX & Web Design</h3> 
 
-### Design
+![UI UX](https://img.shields.io/badge/UI%2FUX_DESIGN-FIGMA-FF7262?style=for-the-badge&logo=figma&logoColor=white)
 
-**Figma · UI/UX Design · Responsive Web Design · Design Systems**
+![Responsive Design](https://img.shields.io/badge/RESPONSIVE_WEB_DESIGN-0891B2?style=for-the-badge)
 
-### Additional Knowledge
+![Design Systems](https://img.shields.io/badge/DESIGN_SYSTEMS-7C3AED?style=for-the-badge)
 
-**Cybersecurity Fundamentals · Ethical Hacking Basics · Web Security Awareness**
+![Landing Pages](https://img.shields.io/badge/LANDING_PAGES-16A34A?style=for-the-badge)
+</td>
+<td align="center">
+<h3>CMS & E-Commerce</h3>
+
+![WordPress](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+![Webflow](https://img.shields.io/badge/WEBFLOW-146EF5?style=for-the-badge&logo=webflow&logoColor=white)
+
+![Shopify](https://img.shields.io/badge/SHOPIFY-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+
+![WooCommerce](https://img.shields.io/badge/WOOCOMMERCE-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<h3>Modern Frontend Development</h3>
+
+
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Tailwind](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+</td>
+<td align="center">
+<h3>Development & Integration</h3>
+
+
+![REST APIs](https://img.shields.io/badge/REST_APIS-0EA5E9?style=for-the-badge)
+
+![Async](https://img.shields.io/badge/ASYNC_PROGRAMMING-7C3AED?style=for-the-badge)
+
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+</td>
+</tr>
+</table>
+</section>
+</div>
+<br><br>
+
+<div align= "center">
+
+## 📌 Featured Projects
+
+### ⚡ FitLog — Workout Library & Day Planner
+
+A modern workout planning application built with Next.js and TypeScript.
+
+**Tech:** Next.js • React • TypeScript • Tailwind CSS • DaisyUI • Context API
+
+🔗 [Live Demo](https://fitlog-seven-beta.vercel.app/)  
+📂 [GitHub Repository](https://github.com/khaledaruna/Fitlog)
+
+---
+
+### 🧩 Dev Stack — Technology Management App
+
+An interactive React application for managing and organizing technology skills.
+
+**Tech:** React • TypeScript • Tailwind CSS • DaisyUI • Vite • React Toastify
+
+🔗 [Live Demo](https://dev-stack-five-wheat.vercel.app/)  
+📂 [GitHub Repository](https://github.com/khaledaruna/Dev_Stack)
+
+---
+
+### 🎬 Movie Explorer
+
+A responsive movie and TV show discovery application using the TVMaze API.
+
+**Tech:** React • JavaScript • Vite • Tailwind CSS • DaisyUI • React Router • REST API
+
+🔗 [Live Demo](https://movie-explorer-lemon-eight.vercel.app/)  
+📂 [GitHub Repository](https://github.com/khaledaruna/Movie_Explorer)
+
 
 ## 🔥 GitHub Streak
 
@@ -196,50 +202,16 @@ My goal is to progress from **web design and CMS development toward modern AI-dr
 
 
 
-##  Let's Connect
+<h2>CONTACT</h2>
 
-<p align="left">
+<p>Available for remote roles, technical projects, and open-source collaboration.</p>
 
-<a href="https://github.com/khaledaruna">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">
-</a>
-&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-KHALEDARUNA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledaruna/)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-KHALEDARUNA-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/run.khaleda.2025)
+[![Behance](https://img.shields.io/badge/BEHANCE-KHALEDARUNA-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/khaledaruna)
+[![Email](https://img.shields.io/badge/EMAIL-START%20A%20CONVERSATION-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledaruna06@gmail.com)
 
-<a href="https://www.linkedin.com/in/khaledaruna/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/khaledaruna06/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40">
-</a>
-&nbsp;&nbsp;
-
-<a href="https://twitter.com/khaledaRuna">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40">
-</a>
-&nbsp;&nbsp;
-
-  <a href="mailto:khaledaruna06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B1F36?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" />
-  </a>
-
-</p>
-
-
-
-##  Contact
-
-If you're interested in:
-
-- Frontend Development
-- React / Next.js Development
-- UI/UX Implementation
-- WordPress / WooCommerce
-- Shopify Development
-- Webflow Development
-- E-Commerce Solutions
-- Website Design & Development
+<br><br>
 
 Feel free to connect with me.
 
@@ -252,3 +224,8 @@ Feel free to connect with me.
 <p>
   Thanks for visiting my profile! ⭐
 </p>
+</div>
+
+
+
+
